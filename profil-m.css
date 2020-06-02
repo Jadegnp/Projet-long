@@ -584,3 +584,30 @@ color: #FFFFFF;
     line-height: 24px;
     
     color: #FFFFFF;}
+
+
+/* BARRE DE NAVIGATION */
+
+.navigation-list {
+    display: inline-block;
+    list-style: none;
+    margin: 0%;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    position: fixed;
+    top: 750px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #FFFFFF;
+    z-index: 2;
+    padding-left: 15px;
+    padding-right: 15px;
+    size: 100%;
+}
+
+nav li {
+    display: inline-block;
+    margin: 12px;
+    margin-bottom: 5px;
+}
