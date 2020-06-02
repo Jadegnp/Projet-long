@@ -23,7 +23,7 @@
 a{
     text-decoration: none;
 }
-h2{
+h5{
     width: 135px;
     height: 18px;
     font-family: 'Lato';
@@ -35,7 +35,8 @@ h2{
     text-decoration: none;
     text-align: center;
 }
-h3{
+
+h6{
     width: 111px;
     height: 18px;
     font-family: Lato;
@@ -435,4 +436,30 @@ footer{
     position: relative;
     left:20px;
     top:195px;
+}
+
+/* BARRE DE NAVIGATION */
+
+.navigation-list {
+    display: inline-block;
+    list-style: none;
+    margin: 0%;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    position: fixed;
+    top: 750px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #FFFFFF;
+    z-index: 2;
+    padding-left: 15px;
+    padding-right: 15px;
+    size: 100%;
+}
+
+nav li {
+    display: inline-block;
+    margin: 12px;
+    margin-bottom: 5px;
 }
