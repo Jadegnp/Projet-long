@@ -873,3 +873,229 @@ left: 305px;
 top: 892px;
 }
 
+.tagou11{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    
+    color: #79D3D1;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(121, 211, 209, 0.19);
+    border-radius: 5px;
+
+position: absolute;
+width: 42px;
+height: 21px;
+left: 8px;
+top: 600px; 
+}
+
+.tagou12{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    
+    color: #79D3D1;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(121, 211, 209, 0.19);
+    border-radius: 5px;
+
+    position: absolute;
+width: 59px;
+height: 21px;
+left: 202px;
+top: 600px;
+}
+
+.tagou13{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    
+    color: #79D3D1;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(121, 211, 209, 0.19);
+    border-radius: 5px;
+
+    position: absolute;
+    width: 112px;
+    height: 21px;
+    left: 202px;
+    top: 795px;   
+}
+
+.tagou14{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    
+    color: #79D3D1;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(121, 211, 209, 0.19);
+    border-radius: 5px;
+
+    position: absolute;
+    width: 42px;
+    height: 21px;
+    left: 8px;
+    top: 1000px;  
+}
+
+.tagoverou1{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+width: 59px;
+height: 18px;
+left: 8px;
+top: 628px;   
+}
+
+.tagoverou2{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+    width: 68px;
+    height: 18px;
+    left: 74px;
+    top: 628px; 
+}
+
+.tagoverou3{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+    width: 59px;
+    height: 18px;
+    left: 203px;
+    top: 628px;
+    
+}
+
+.tagoverou4{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+width: 114px;
+height: 18px;
+left: 203px;
+top: 823px;
+}
+
+.tagoverou5{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+    width: 76px;
+    height: 18px;
+    left: 8px;
+    top: 1028px;
+}
+
+.nomou1{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 18px;
+     
+    color: rgba(0, 0, 0, 0.61);
+    position: absolute;
+width: 131px;
+height: 18px;
+left: 32px;
+top: 785px; 
+}
+
+.nomou2{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 18px;
+     
+    color: rgba(0, 0, 0, 0.61);
+    position: absolute;
+    width: 100px;
+    height: 18px;
+    left: 228px;
+    top: 989px;
+}
+
+.tagprofilou1 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+width: 79px;
+height: 25px;
+left: 52px;
+top: 820px;
+
+background: #C4C4C4;
+box-shadow: 0px 2px 20px rgba(196, 196, 196, 0.25);
+border-radius: 5px; 
+}
+
+.tagprofilou2 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+    width: 73px;
+    height: 18px;
+    left: 246px;
+    top: 1025px;
+
+background: #C4C4C4;
+box-shadow: 0px 2px 20px rgba(196, 196, 196, 0.25);
+border-radius: 5px; 
+}
