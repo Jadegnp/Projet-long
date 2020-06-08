@@ -42,6 +42,13 @@ line-height: 20px;
 color: #000000;
 }
 
+.check{
+    position: relative;
+    float: left;  
+    left:260px;
+    display:inline;
+    margin-top:8px;z-index: 1;
+}
 .intro{
     position: absolute;
     z-index: 1;
