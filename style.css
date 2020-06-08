@@ -1416,3 +1416,58 @@ top: 324px;
     left: 230px;
     top: 283px;    
 }
+
+.recherchequi1{
+    border-radius: 4px;
+    position: absolute;
+width: 186px;
+height: 192px;
+left: 0px;
+top: 251px;    
+}
+
+.recherchequi2{
+    border-radius: 4px;
+    position: absolute;
+    width: 183px;
+    height: 192px;
+    left: 192px;
+    top: 251px;    
+}
+
+.recherchequi3{
+    border-radius: 4px;
+    position: absolute;
+    width: 186px;
+height: 192px;
+left: 0px;
+top: 449px;   
+}
+
+.recherchequi4{
+    border-radius: 4px;
+    position: absolute;
+    width: 183px;
+    height: 192px;
+    left: 192px;
+    top: 449px;   
+}
+
+.recherchequi5{
+    border-radius: 4px;
+    position: absolute;
+width: 186px;
+height: 192px;
+left: 0px;
+top: 646px;  
+}
+
+
+.recherchequi6{
+    border-radius: 4px;
+    position: absolute;
+    width: 186px;
+    height: 192px;
+    left: 191px;
+    top: 646px; 
+}
