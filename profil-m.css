@@ -41,11 +41,11 @@ line-height: 20px;
 
 color: #000000;
 }
-
 .check{
     position: relative;
     float: left;  
     left:260px;
+    display:inline;
     margin-top:8px;z-index: 1;
 }
 .intro{
@@ -598,28 +598,98 @@ color: #FFFFFF;
     color: #FFFFFF;}
 
 
-/* BARRE DE NAVIGATION */
 
-.navigation-list {
-    display: inline-block;
-    list-style: none;
-    margin: 0%;
-    -webkit-transition: all .5s;
-    transition: all .5s;
-    position: fixed;
-    top: 750px;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #FFFFFF;
-    z-index: 2;
-    padding-left: 15px;
-    padding-right: 15px;
-    size: 100%;
-}
+    .protect{
+        position: absolute;
+        left:0px;
+        top:0px;
+        width: 100%;
+        height:175%;
+        background-color:black ;
+        opacity: 40%;
+        color:black;
+        z-index: 2;
+    }
 
-nav li {
-    display: inline-block;
-    margin: 12px;
-    margin-bottom: 5px;
-}
+    .hana{
+        position: absolute;
+        width: 351px;
+        height: 437px;
+        left: 12px;
+        top: 54px;
+        z-index:3;
+        background: #79D3D1;
+        box-shadow: 0px 2px 20px rgba(121, 211, 209, 0.22);
+        border-radius: 15px;
+    }
+
+    .dul{position: absolute;
+        width: 251px;
+        height: 18px;
+        left: 55px;
+        top: 94px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        
+        color: #FFFFFF;
+    }
+    .saet{
+        position: absolute;
+width: 321px;
+height: 18px;
+left: 34px;
+top: 180px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+
+color: #FFFFFF;
+    }
+    .lmlm{
+        position: absolute;
+        width: 130px;
+        height: 41px;
+        left: 119px;
+        top: 300px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 2px 20px rgba(121, 211, 209, 0.4);
+        border-radius: 5px;
+    }
+    .poiu{
+        position: absolute;
+        width: 89px;
+        height: 18px;
+        left:17px;
+        top:-10px;
+
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        
+        color: #79D3D1;
+    }
+    .litf{
+        position: absolute;
+        width: 83px;
+        height: 18px;
+        left: 144px;
+        top: 350px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        
+        color: #FFFFFF;
+    }
